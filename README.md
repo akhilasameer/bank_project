@@ -1,10 +1,4 @@
 # bank_project
-Overview
+This project predicts customer behavior regarding subscriptions to term deposits using a dataset containing customer attributes and marketing responses. It identifies key factors influencing decisions, such as age, job, marital status, balance, and loan status.
 
-This project aims to predict customer behavior regarding subscriptions to term deposits using a dataset from a bank. The dataset includes various customer attributes and their responses to marketing campaigns.
-
-Objectives
-
-Predict whether a customer will subscribe to a term deposit.
-
-Identify key factors influencing customer decisions based on attributes like age, job type, marital status, account balance, and previous interactions.
+The process includes data cleaning, exploratory analysis, machine learning model training, and performance evaluation. Python and libraries like Pandas, NumPy, and Scikit-learn are used.
